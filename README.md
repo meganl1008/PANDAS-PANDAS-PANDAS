@@ -18,23 +18,23 @@ Purchase data contains
 <img src = "results/total_players.png" width = "15%">
 
 <b> Purchasing Analysis (Total) </b> <br />
-<img src = "results/purchasing_analysis.png" width = "60%">
+<img src = "results/purchasing_analysis.png" width = "50%">
 
 <b> Gender Demographics </b> <br />
-<img src = "results/genderr.png" width = "40%">
+<img src = "results/genderr.png" width = "50%">
 
 <b> Purchasing Analysis (Gender) </b> <br />
 <img src = "results/purchasing_analysis_gender.png" width = "70%">
 
 <b>Age Demographics </b> <br />
-<img src = "results/age.png" width = "35%">
+<img src = "results/age.png" width = "30%">
 
 <b> Purchasing Analysis (Age) </b> <br />
-<img src = "results/purchasing_analysis_ge.png" width = "70%">
+<img src = "results/purchasing_analysis_ge.png" width = "75%">
 
 <b> Top Spenders </b> <br />
 Identify the the top 5 spenders in the game by total purchase value <br />
-<img src = "results/top_spenders.png" width = "60%">
+<img src = "results/top_spenders.png" width = "50%">
 
 <b> Identify the 5 most popular items by purchase count </b> <br />
 <img src = "results/popular_items.png" width = "70%">
