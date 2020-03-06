@@ -1,12 +1,68 @@
 # Python Pandas Challenge
+As Lead Analyst for an independent gaming company, I've been assigned the task of analyzing the data for their most recent fantasy game Heroes of Pymoli. 
 
-Objective: Apply data cleansing and conduct data analysis using Pandas in Python
+Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. I will generate a report that breaks down the game’s purchasing data into meaningful insights using Pandas.
 
-Project: Create a report on user demographics for fantasy game "Heroes of Pymoli"
+## Files
+Purchase data contains 
+- Purcahse ID
+- Screen name 
+- Age
+- Gender
+- Item ID
+- Item Name
+- Price
 
-Final Report includes:
-- Total Number of Players
-- Purchasing Analysis (number of unique items, average purchase price, total revenue)
-- Gender Demographics
-- Top players
-- Top purchased items 
+## Report Should Include the Following:
+<b> Player Count </b> <br />
+Total Number of Players
+
+<b> Purchasing Analysis (Total) </b> <br />
+Number of Unique Items <br />
+Average Purchase Price <br />
+Total Number of Purchases <br />
+Total Revenue <br />
+
+<b> Gender Demographics </b> <br />
+Percentage and Count of Male Players <br />
+Percentage and Count of Female Players <br />
+Percentage and Count of Other / Non-Disclosed <br />
+
+<b> Purchasing Analysis (Gender) </b> <br />
+The below each broken by gender: <br />
+Purchase Count <br />
+Average Purchase Price <br />
+Total Purchase Value <br />
+Average Purchase Total per Person by Gender <br />
+
+<b>Age Demographics </b> <br />
+The below each broken into bins of 4 years (i.e. <10, 10-14, 15-19, etc.): <br />
+Purchase Count <br />
+Average Purchase Price <br />
+Total Purchase Value <br />
+Average Purchase Total per Person by Age Group <br />
+
+<b> Top Spenders </b> <br />
+Identify the the top 5 spenders in the game by total purchase value, then list (in a table): <br />
+SN <br />
+Purchase Count <br />
+Average Purchase Price <br />
+Total Purchase Value <br />
+Most Popular Items <br />
+
+<b> Identify the 5 most popular items by purchase count, then list (in a table): </b> <br />
+Item ID <br />
+Item Name <br />
+Purchase Count <br />
+Item Price <br />
+Total Purchase Value <br />
+Most Profitable Items <br />
+
+<b> Identify the 5 most profitable items by total purchase value, then list (in a table): </b> <br />
+Item ID <br />
+Item Name <br />
+Purchase Count <br />
+Item Price <br />
+Total Purchase Value <br />
+
+## Results
