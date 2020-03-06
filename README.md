@@ -17,7 +17,7 @@ Purchase data contains
 <b> Player Count </b> <br />
 - Total Number of Players
 
-![](results/total_players.png){:height="200px" width="200px"}
+![](results/total_players.png)
 
 <b> Purchasing Analysis (Total) </b> <br />
 - Number of Unique Items <br />
@@ -52,6 +52,15 @@ The below each broken into bins of 4 years (i.e. <10, 10-14, 15-19, etc.): <br /
 
 ![](results/age.png)
 
+<b> Purchasing Analysis (Age) </b> <br />
+The below each broken by age: <br />
+- Purchase Count <br />
+- Average Purchase Price <br />
+- Total Purchase Value <br />
+- Average Purchase Total per Person by Age <br />
+
+![](results/puchasing_analysis_age.png)
+
 <b> Top Spenders </b> <br />
 Identify the the top 5 spenders in the game by total purchase value, then list (in a table): <br />
 - SN <br />
@@ -70,7 +79,7 @@ Identify the the top 5 spenders in the game by total purchase value, then list (
 - Total Purchase Value <br />
 - Most Profitable Items <br />
 
-![](results/most_popular_items.png)
+![](results/popular_items.png)
 
 <b> Identify the 5 most profitable items by total purchase value, then list (in a table): </b> <br />
 - Item ID <br />
@@ -78,4 +87,6 @@ Identify the the top 5 spenders in the game by total purchase value, then list (
 - Purchase Count <br />
 - Item Price <br />
 - Total Purchase Value <br />
+
+![](results/profitable_items.png)
 
