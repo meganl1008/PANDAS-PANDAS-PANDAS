@@ -13,9 +13,11 @@ Purchase data contains
 - Item Name
 - Price
 
-## Report Should Include the Following:
+## Report Includes:
 <b> Player Count </b> <br />
 Total Number of Players
+
+![](total_players)
 
 <b> Purchasing Analysis (Total) </b> <br />
 Number of Unique Items <br />
