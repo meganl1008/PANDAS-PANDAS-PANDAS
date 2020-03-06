@@ -79,4 +79,3 @@ Identify the the top 5 spenders in the game by total purchase value, then list (
 - Item Price <br />
 - Total Purchase Value <br />
 
-![](age.png f 
