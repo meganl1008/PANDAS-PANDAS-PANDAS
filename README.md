@@ -32,7 +32,7 @@ Purchase data contains
 - Percentage and Count of Female Players <br />
 - Percentage and Count of Other / Non-Disclosed <br />
 
-<img src = "results/gender.png" width = "40%">
+<img src = "results/genderr.png" width = "40%">
 
 <b> Purchasing Analysis (Gender) </b> <br />
 The below each broken by gender: <br />
