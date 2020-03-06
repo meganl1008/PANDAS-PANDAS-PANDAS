@@ -17,7 +17,7 @@ Purchase data contains
 <b> Player Count </b> <br />
 Total Number of Players
 
-![](total_players)
+![](/results/total_players)
 
 <b> Purchasing Analysis (Total) </b> <br />
 Number of Unique Items <br />
