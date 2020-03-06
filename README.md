@@ -13,7 +13,7 @@ Purchase data contains
 - Item Name
 - Price
 
-## Report:
+## Report
 <b> Player Count </b> <br />
 <img src = "results/total_players.png" width = "15%">
 
