@@ -59,7 +59,7 @@ The below each broken by age: <br />
 - Total Purchase Value <br />
 - Average Purchase Total per Person by Age <br />
 
-<img src = "results/purchasing_analysis_ge.png" width = "60%">
+<img src = "results/purchasing_analysis_ge.png" width = "70%">
 
 <b> Top Spenders </b> <br />
 Identify the the top 5 spenders in the game by total purchase value, then list (in a table): <br />
@@ -69,7 +69,7 @@ Identify the the top 5 spenders in the game by total purchase value, then list (
 - Total Purchase Value <br />
 - Most Popular Items <br />
 
-<img src = "results/top_spenders.png" width = "70%">
+<img src = "results/top_spenders.png" width = "60%">
 
 <b> Identify the 5 most popular items by purchase count, then list (in a table): </b> <br />
 - Item ID <br />
