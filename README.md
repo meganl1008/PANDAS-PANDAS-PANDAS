@@ -80,3 +80,6 @@ Identify the the top 5 spenders in the game by total purchase value, then list (
 - Total Purchase Value <br />
 
 ![](results/most_profitable_items.png)
+
+
+![](test.png)
