@@ -41,3 +41,10 @@ Identify the the top 5 spenders in the game by total purchase value <br />
 
 <b> Identify the 5 most profitable items by total purchase value </b> <br />
 <img src = "results/profitable_items.png" width = "70%">
+
+# Analysis
+- 20-24 year olds have the highest total purchase value while 40+ year olds have the lowest total purchase value 
+- Players who identified as male have the lowest average purchase price, yet they bring in the most total purchase value ($1,967.64)
+- The most popular and profitable item was “Oathbreaker, Last Hope of the Breaking Storm.” It was purchased 12 times and the total purchase value was $50.76
+
+
