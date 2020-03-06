@@ -17,7 +17,7 @@ Purchase data contains
 <b> Player Count </b> <br />
 - Total Number of Players
 
-<img src = "./results/total_players.png" width = "100" height = "100>
+<img src = "results/total_players.png" width = "40%">
 
 <b> Purchasing Analysis (Total) </b> <br />
 - Number of Unique Items <br />
