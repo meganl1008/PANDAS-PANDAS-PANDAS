@@ -25,7 +25,7 @@ Purchase data contains
 - Total Number of Purchases <br />
 - Total Revenue <br />
 
-<img src = "results/purchasing_analysis.png" width = "40%">
+<img src = "results/purchasing_analysis.png" width = "60%">
 
 <b> Gender Demographics </b> <br />
 - Percentage and Count of Male Players <br />
@@ -41,7 +41,7 @@ The below each broken by gender: <br />
 - Total Purchase Value <br />
 - Average Purchase Total per Person by Gender <br />
 
-<img src = "results/purchasing_analysis_gender.png" width = "40%">
+<img src = "results/purchasing_analysis_gender.png" width = "60%">
 
 <b>Age Demographics </b> <br />
 The below each broken into bins of 4 years (i.e. <10, 10-14, 15-19, etc.): <br />
@@ -50,7 +50,7 @@ The below each broken into bins of 4 years (i.e. <10, 10-14, 15-19, etc.): <br /
 - Total Purchase Value <br />
 - Average Purchase Total per Person by Age Group <br />
 
-<img src = "results/age.png" width = "40%">
+<img src = "results/age.png" width = "60%">
 
 <b> Purchasing Analysis (Age) </b> <br />
 The below each broken by age: <br />
@@ -59,7 +59,7 @@ The below each broken by age: <br />
 - Total Purchase Value <br />
 - Average Purchase Total per Person by Age <br />
 
-<img src = "results/purchasing_analysis_ge.png" width = "40%">
+<img src = "results/purchasing_analysis_ge.png" width = "60%">
 
 <b> Top Spenders </b> <br />
 Identify the the top 5 spenders in the game by total purchase value, then list (in a table): <br />
@@ -69,7 +69,7 @@ Identify the the top 5 spenders in the game by total purchase value, then list (
 - Total Purchase Value <br />
 - Most Popular Items <br />
 
-<img src = "results/top_spenders.png" width = "40%">
+<img src = "results/top_spenders.png" width = "60%">
 
 <b> Identify the 5 most popular items by purchase count, then list (in a table): </b> <br />
 - Item ID <br />
@@ -79,7 +79,7 @@ Identify the the top 5 spenders in the game by total purchase value, then list (
 - Total Purchase Value <br />
 - Most Profitable Items <br />
 
-<img src = "results/popular_items.png" width = "40%">
+<img src = "results/popular_items.png" width = "60%">
 
 <b> Identify the 5 most profitable items by total purchase value, then list (in a table): </b> <br />
 - Item ID <br />
@@ -88,5 +88,5 @@ Identify the the top 5 spenders in the game by total purchase value, then list (
 - Item Price <br />
 - Total Purchase Value <br />
 
-<img src = "results/profitable_items.png" width = "40%">
+<img src = "results/profitable_items.png" width = "60%">
 
