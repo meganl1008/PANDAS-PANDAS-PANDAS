@@ -21,7 +21,7 @@ Purchase data contains
 <img src = "results/purchasing_analysis.png" width = "50%">
 
 <b> Gender Demographics </b> <br />
-<img src = "results/genderr.png" width = "50%">
+<img src = "results/genderr.png" width = "40%">
 
 <b> Purchasing Analysis (Gender) </b> <br />
 <img src = "results/purchasing_analysis_gender.png" width = "70%">
