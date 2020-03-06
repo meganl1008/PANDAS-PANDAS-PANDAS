@@ -59,7 +59,7 @@ The below each broken by age: <br />
 - Total Purchase Value <br />
 - Average Purchase Total per Person by Age <br />
 
-![](results/puchasing_analysis_age.png)
+![](results/purchasing_analysis_ge.png)
 
 <b> Top Spenders </b> <br />
 Identify the the top 5 spenders in the game by total purchase value, then list (in a table): <br />
